@@ -1,6 +1,6 @@
 # Robert Nazaryan
 
-### Java Software Engineer | Spring Boot • PostgreSQL • Kafka • Microservices • Docker
+### Java Software Engineer |  Full Stack Engineer
 
 ## 🌐 Contacts
 
